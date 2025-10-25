@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+data/
+logs/
+runs/
+datasets/
+tp3/datasets/
+plots_paper/
+plots/
+runs_new/
+sift/
